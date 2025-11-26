@@ -23,8 +23,7 @@ musig2_project/
 │   ├── util.h
 │   └── （其他 secp256k1 的必要核心）
 │
-├── modules/
-│   ├── musig2/       <--  你要重寫的新模組
+├── modules
 │   ├── keyagg2.h
 │   ├── keyagg2_impl.h
 │   ├── session2.h

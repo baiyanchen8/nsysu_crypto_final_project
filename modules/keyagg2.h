@@ -10,6 +10,7 @@
 #include "../src/scalar.h"
 #include "../src/hash.h"
 #include "../src/util.h"
+#include "../src/ecmult_const.h"
 
 /* Demo 版：限制最大 signer 數量（可以依需求調整或改成動態配置） */
 #define MUSIG2_MAX_SIGNERS 16
